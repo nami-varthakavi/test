@@ -14,3 +14,4 @@
    4. Confirm CMD terminal picks up new version of maven.
    5. Update any personal or system wide maven settings (to pick up archiva or artifactory), or to change local maven repository location.
 4. Run the Main.java under `java/com/main` to start the application 
+5. `/swagger` will give the swagger json which can be copied and viewed through a swagger editor. The swagger code was built based from this example: https://serol.ro/posts/2016/swagger_sparkjava/
